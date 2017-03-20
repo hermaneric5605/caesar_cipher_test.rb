@@ -1,3 +1,5 @@
+
+
 puts "Word please: "
 text = gets.chomp.downcase
 
