@@ -1,5 +1,4 @@
-
-
+#spec/ceaser_cipher_2.rb
 puts "Word please: "
 text = gets.chomp.downcase
 
